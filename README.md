@@ -51,16 +51,19 @@ This project includes authentication, job management, filtering, responsive UI, 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./Output-1.png)
 
 ### Job Listings
-![Job Listings](./screenshots/jobs.png)
+![Job Listings](./Output-2.png)
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./Output-3.png)
 
----
+### Dashboard
+![Dashboard](./Output-4.png)
 
+### Recruiter Panel
+![Recruiter Panel](./Output-5.png)
 ## 📂 Project Structure
 
 ```bash
