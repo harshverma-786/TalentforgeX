@@ -1,6 +1,6 @@
-# 💼 TalentforgeX – MERN Stack Job Portal
+# 💼 JobJunction – MERN Stack Job Portal
 
-TalentforgeX is a modern full-stack job portal application built using the MERN stack. The platform connects job seekers and recruiters by providing an easy and secure way to search jobs, post opportunities, and manage applications.
+JobJunction is a modern full-stack job portal application built using the MERN stack. The platform connects job seekers and recruiters by providing an easy and secure way to search jobs, post opportunities, and manage applications.
 
 This project includes authentication, job management, filtering, responsive UI, and CRUD functionality to deliver a smooth user experience for both applicants and recruiters.
 
@@ -64,7 +64,7 @@ This project includes authentication, job management, filtering, responsive UI, 
 ## 📂 Project Structure
 
 ```bash
-TalentforgeX/
+JobJunction/
 │
 ├── job-portal-client/
 ├── job-portal-server/
@@ -78,7 +78,7 @@ TalentforgeX/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/harshverma-786/TalentforgeX.git
+git clone https://github.com/harshverma-786/JobJunction.git
 ```
 
 ---
@@ -86,7 +86,7 @@ git clone https://github.com/harshverma-786/TalentforgeX.git
 ### 2️⃣ Navigate to Project Folder
 
 ```bash
-cd TalentforgeX
+cd JobJunction
 ```
 
 ---
